@@ -1,6 +1,6 @@
 print("Stable-Diffusion-Extensions-RCE")
 
-calculator = """
+calculator = '''
  __________
 | ________ |
 ||12345678||
@@ -11,6 +11,6 @@ calculator = """
 |[1|2|3][%]|
 |[.|O|:][=]|
 "----------"
-"""
+'''
 
 print(calculator)
